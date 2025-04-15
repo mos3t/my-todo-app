@@ -1,0 +1,52 @@
+[
+    {
+      "memberID": 1,
+      "memberSince": "09.04.2025",
+      "email": "mauricescheunert@gmail.com",
+      "password": "Nike2003!",
+      "username": "MauriceS",
+      "firstname": "Pierre Maurice",
+      "lastname": "Scheunert",
+      "birthdate": "02.04.2003"
+    },
+    {
+      "memberID": 2,
+      "email": "max@mustermann.de",
+      "password": "Max123$",
+      "username": "MaxM",
+      "firstname": "Max",
+      "lastname": "Mustermann",
+      "birthdate": "02.02.1999",
+      "memberSince": "09.04.2025"
+    },
+    {
+      "memberID": 3,
+      "email": "Test@Test.de",
+      "password": "Test123$",
+      "username": "Test",
+      "firstname": "Test",
+      "lastname": "Test",
+      "birthdate": "01.01.2003",
+      "memberSince": "09.04.2025"
+    },
+    {
+      "memberID": 4,
+      "email": "tobias280604@gmail.com",
+      "password": "Seraphin04!",
+      "username": "T0Bl",
+      "firstname": "Tobias ",
+      "lastname": "Heller",
+      "birthdate": "28.06.2004",
+      "memberSince": "09.04.2025"
+    },
+    {
+      "email": "edfghegwhjdfghgdj@dd.de",
+      "password": "ewfgergrggeA12!",
+      "username": "Ugkjfkdgjfihhr",
+      "firstname": "Gfhfghjgd",
+      "lastname": "Uhuadsfhudsu",
+      "birthdate": "12.12.3451",
+      "memberSince": "09.04.2025",
+      "memberID": 6
+    }
+  ]
